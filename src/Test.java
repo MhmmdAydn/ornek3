@@ -6,7 +6,11 @@ public class Test {
 
     public static void yeniMethod()
     {
-        System.out.println("Yeni methodum hazır");
         System.out.println("Sepete ekle kısımları buralar");
+    }
+
+    public static void  SepettenSil()
+    {
+        System.out.println("Sepetten silme bölümü bitti.");
     }
 }
